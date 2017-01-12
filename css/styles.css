@@ -20,4 +20,11 @@ body {
 
 .container h1 {
   text-align: center;
+  padding-bottom: 10px;
+}
+
+
+.container h2 {
+  text-align: center;
+  padding-top: 10px;
 }
